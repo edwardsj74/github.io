@@ -1,6 +1,3 @@
-/* Gothic Castlevania Theme */
-@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=Spectral:wght@400;700&display=swap');
-
 body {
   font-family: 'Spectral', serif;
   background: linear-gradient(to bottom, #0d0d0d, #1a1a1a);
